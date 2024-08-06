@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Exemplo de links</title>
+	</head>
+	<body>
+		<h1>JOGOS VORAZES</h1>
+		<h2>Frases marcantes</h2>
+		<p>Esse link abre na mesma guia</p>
+		<a href="https://www.youtube.com/watch?v=76HRpwJkAX4" target="_self">katniss</a>
+		<p>"Se nós queimarmos, você queimará conosco!" — Katniss Everdeen</p>
+	</body>
+</html>
