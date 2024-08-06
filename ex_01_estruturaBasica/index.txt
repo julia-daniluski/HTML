@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Página Web da Daniluski</title>
+	</head>
+	<body>
+		<p>"Se nós queimarmos, você queimará conosco!" — Katniss Everdeen</p>
+	</body>
+</html>
