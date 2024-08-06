@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>imagens</title>
+	</head>
+	<body>
+		<p>inserir imagem usando link</p>
+		<a img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4xl50zguy2k61.jpg&rdt=59324"></a>
+
+	</body>
+</html>
