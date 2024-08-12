@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+
+	<head>
+		<!-- Renderiza caracteres especiais corretamente -->
+		<meta charset="UTF-8">
+
+		<!-- Permite reconhecer quando aberto em tela menor -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Semântica</title>
+		<!-- Exemplo de uso do SEO "Search Engine Optimization" técnicas para melhorar o posicionamento nos resultados de busca no Google -->
+
+	</head>
+
+	<body>
+		<header> 
+		<!-- Cabeçalho -->
+		<!-- logo da empresa -->
+			<nav>
+			<!-- barra de navegação com links -->
+			</nav>
+		</header>
+		<main>
+		<!-- tag conteúdo principal -->
+			<h1> Titulo principal </h1>
+			<p> paragrafo do conteúdo</p>
+		</main>
+		<section>
+		<!-- abre nova seção, parte secundária -->
+		</section>
+		<aside>
+		<!--conteúdo lateral da página, como menu lateral -->
+		</aside>
+		<footer>
+		<!-- rodapé a página -->
+			<p> INFORMAÇÕES PARA CONTATO</p>
+			<p> Copyright</p>
+		</footer>
+	</body>
+	</html>
